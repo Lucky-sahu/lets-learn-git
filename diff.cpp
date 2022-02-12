@@ -6,7 +6,7 @@ using namespace std;
      int a=8,b=4;
 
      int diff = a-b;
-     cout <<" the  difference is  : "<< diff << endl;
+     cout <<" the  difference  of two no. is  : "<< diff << endl;
 
      return 0;
      
