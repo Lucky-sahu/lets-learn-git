@@ -7,7 +7,7 @@ int main()
     int b = 9;
 
     int sum = a+b;
-    cout <<"sum is : "<< sum << endl;
+    cout <<"sumtsfd iccs : "<< sum << endl;
      return 0;
 
 }
